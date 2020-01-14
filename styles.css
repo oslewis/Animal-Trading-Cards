@@ -1,0 +1,57 @@
+/* add your CSS here */
+.container {
+      width: 325px;
+      display: flex;
+      flex-wrap: wrap;
+      border: 2px solid black;
+      border-radius: 4px;
+      background-color: #e0ffff;
+      padding: 10px;
+      margin: 10px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.content {
+      margin: 8px;
+      padding: 8px;
+      border: 1px solid black;
+      border-radius: 6px;
+      float: center;
+}
+
+.description {
+      font: italic 14px Arial, sans-serif;
+}
+
+
+img {
+      border-radius: 10px;
+      margin: 10px;
+      float: center;
+      max-width: 100%;
+      height: auto;
+
+}
+
+ul {
+      padding: 0px;
+      margin: 0 5 5 0px;
+      font: 14px;
+}
+
+
+li {
+      list-style-type: none;
+
+}
+
+span {
+      font-weight: bold;
+}
+
+h3 {
+      font: 30px Georgia, sans-serif;
+      margin: 6px;
+      padding: 10px;
+}
